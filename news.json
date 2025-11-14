@@ -2,12 +2,12 @@
   "news": [
     {
       "id": "20251101",
-      "date": "2025.11.01",
-      "category": "press",
-      "title": "Nature Materials誌に研究成果が掲載されました",
-      "description": "機械学習を用いた新規材料設計手法に関する論文がNature Materials誌に掲載されました。本研究では、深層学習モデルを活用することで、従来の10倍の速度で新材料の物性を予測することが可能になりました。",
+      "date": "2025.12.15-2025.12.20",
+      "category": "conference",
+      "title": "The International Chemical Congress of Pacific Basin Societies 2025にて口頭発表を行います",
+      "description": "",
       "image": "",
-      "imageAlt": "Nature Materials",
+      "imageAlt": "",
       "link": "#",
       "isNew": true
     },
