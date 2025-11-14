@@ -1,7 +1,7 @@
 {
   "news": [
     {
-      "id": "20251101",
+      "id": "20251215",
       "date": "2025.12.15-2025.12.20",
       "category": "conference",
       "title": "The International Chemical Congress of Pacific Basin Societies 2025にて口頭発表を行います",
@@ -12,13 +12,13 @@
       "isNew": true
     },
     {
-      "id": "20251015",
-      "date": "2025.10.15",
-      "category": "notice",
-      "title": "2026年度 修士・博士課程の学生を募集しています",
-      "description": "当研究室では、材料科学とデータサイエンスの融合研究に興味を持つ大学院生を募集しています。最先端の研究環境で、次世代材料の開発に挑戦してみませんか。",
+      "id": "20251128",
+      "date": "2025.11.28",
+      "category": "conference",
+      "title": "第29回無機高分子クローズドセミナーにて講演を行います",
+      "description": "第29回無機高分子クローズドセミナーにおいて「Starrydataデータベースと新規Materials Informaticsツール群の開発による材料科学の加速」を講演いたします。場所：東京理科大学（神楽坂）森戸記念会館第2フォーラム",
       "image": "",
-      "imageAlt": "学生募集",
+      "imageAlt": "",
       "link": "#",
       "isNew": true
     },
